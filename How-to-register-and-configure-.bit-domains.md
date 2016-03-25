@@ -9,6 +9,7 @@ Advantages:
 * No need to run your own node
 * No need to extend the domain yourself
 * No need to deal with Namecoins directly
+
 Disadvantages:
 * Have to trust the registrar
 * You don't own the domain
